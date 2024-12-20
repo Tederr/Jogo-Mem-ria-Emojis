@@ -10,7 +10,7 @@ Este projeto é um jogo da memória interativo. O objetivo é encontrar os pares
 
 ## 🕹️Como Jogar
 
-1. Abra o arquivo `index.html` em seu navegador ou aperte [aqui](https://tederr.github.io/Jogo-Mem-ria-Emojis/).
+1. Abra o arquivo `index.html` em seu navegador ou aperte [aqui](https://tederr.github.io/Jogo-Memoria-Emojis/s).
 2. Clique em duas cartas para virá-las.
 3. Se os emojis combinarem, o par será mantido visível.
 4. Caso contrário, as cartas serão viradas novamente.
